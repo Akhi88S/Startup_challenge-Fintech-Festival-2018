@@ -1,0 +1,631 @@
+/* Smartphones (portrait) ----------- */
+
+li{
+
+	width: 25%;
+	text-align: center;
+	}
+
+a
+{
+	display: block;
+}
+
+@media only screen and (min-width:1px) and (max-width : 360px) /*MOBILE(SMALL)*/
+{
+	.hello
+	{
+   width: auto;
+		font-size: 43px;
+			margin-top: -15px;
+	margin-bottom: -6px;
+		text-align: center;
+		
+}
+#marnav 
+	ul {
+					
+	padding: 1px;
+
+		margin-top: -1px;
+	margin-bottom: 1%;
+	border: px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+
+					}
+				.placespadd
+	{
+		padding-top: 0px;
+	}
+				.nav li a
+	{
+				padding-bottom: 2px;
+					text-align: center;
+					color: white;
+					font-size: 10px;
+				position: relative;
+					
+}				
+	#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+							}
+	
+#paddie{
+	padding-top: -5%;
+}
+
+		#para
+	{
+		font-size: 15px;
+	}
+
+#para
+{
+	color: white;
+	font-size: 14px;
+  background-color: black;	
+	
+}
+
+.footer1 {
+  background: linear-gradient(to left, #3a6186 , #89253e);
+  margin-top: -4%;
+  text-align: center;
+}
+.footer1 a {
+  color: white;
+  font-size: 17px;
+  padding: 20px;
+  padding-bottom: 1.4px;
+  display: inline;
+}
+.footer1 a:first-child {
+  
+}
+.footer1 a:hover {
+  color: black;
+}
+
+
+}
+	/*medium smart phones*/
+@media only screen and (min-width:361px) and (max-width:420px) /*MOBILE(MEDIUM)*/
+{
+	.hello
+	{
+   width:auto;
+		font-size: 55px;
+		margin-top: -10px;
+	margin-bottom: -6px;
+text-align: center;
+		
+		
+	
+       }
+	
+	#marnav 
+	ul {
+					
+	padding: 1px;
+
+		margin-top: -1px;
+	margin-bottom: 2%;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+
+					}
+				.placespadd
+	{
+		padding-top: 0px;
+	}
+				.nav li a{
+				padding-bottom: 2px;
+					text-align: center;
+					color: white;
+					font-size: 13px;
+				position: relative;
+}
+				#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+		#paddie
+	{
+		
+	margin-top: -1%;
+	}
+
+	#para
+	{
+		font-size: 15px;
+
+	}
+
+footer {
+  background: linear-gradient(to left, #3a6186 , #89253e); 
+ margin-top: -4%;
+  text-align: center;
+}
+footer a {
+  color: white;
+  font-size: 17px;
+  padding: 20px;
+  padding-bottom: 3px;
+  display: inline;
+}
+footer a:first-child {
+  
+}
+footer a:hover {
+  color: black;
+}
+
+
+}
+@media only screen and (min-width:421px) and (max-width:625px) /*MOBILE(LARGE)*/
+{
+	.hello
+	{ 
+width:auto;
+		font-size: 60px;
+			margin-top: -10px;
+	margin-bottom: -6px;
+		text-align: center;
+}
+
+	
+	#marnav 
+	ul {
+					
+	padding: 1px;
+
+		margin-top: 0px;
+	margin-bottom: 2%;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+
+					}
+				.placespadd
+	{
+		padding-top: 1px;
+	}
+				.nav li a{
+				padding-bottom: 1px;
+					text-align: center;
+					color: white;
+					font-size: 15px;
+				position: relative;
+}
+	
+	
+	#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+		#paddie
+	{
+		
+	margin-top:-1%;
+	}
+
+	#para
+	{
+		font-size: 17px;
+	}
+
+footer {
+  background: linear-gradient(to left, #3a6186 , #89253e); 
+ margin-top: -4%;
+  text-align: center;
+}
+footer a {
+  color: white;
+  font-size: 17px;
+  padding: 20px;
+  padding-bottom: 3px;
+  display: inline;
+}
+footer a:first-child {
+  
+}
+footer a:hover {
+  color: black;
+}
+
+
+
+}
+	
+/* // Medium devices (tablets, 768px and up)*/
+@media only screen and (min-width: 626px) and (max-width:990px)    /*TABLET*/
+{ 
+	.hello
+	{
+		width:auto;
+		font-size: 80px;
+			margin-top: -30px;
+	margin-bottom: 10px;
+		text-align: center;
+	}
+	
+#marnav 
+	ul {
+					
+	padding: 1px;
+	margin-top: -2px;
+		margin-top: -2%;
+	margin-bottom: -20px;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+
+					}
+				.placespadd
+	{
+		padding-top: 1px;
+	}
+				.nav li a{
+				padding-bottom: 1px;
+					text-align: center;
+					color: white;
+					font-size: 17px;
+				position: relative;
+}
+				#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+		#paddie
+	{
+		
+	margin-top:3%;
+	}
+
+		#para
+	{
+		font-size: 15px;
+	}
+
+footer {
+  background: linear-gradient(to left, #3a6186 , #89253e); 
+ margin-top: -2%;
+  text-align: center;
+}
+footer a {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  display: inline;
+}
+footer a:first-child {
+  
+}
+footer a:hover {
+  color: black;
+}
+
+
+}
+
+/* // Large devices (desktops, 992px and up)*/
+@media  only screen and (min-width: 991px) and (max-width:1100px) /*LAPTOP (1024)*/
+{
+	.hello
+	{
+		width:auto;
+		font-size: 90px;
+			margin-top: -35px;
+	margin-bottom: 0px;
+		text-align: center;
+
+	}
+	
+	
+	#marnav 
+	ul {
+					
+	padding: 1px;
+	margin-top: 2%;
+		margin-top: -10px;
+	margin-bottom: -20px;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+
+					}
+				.placespadd
+	{
+		padding-top: 1px;
+	}
+				.nav li a{
+				padding-bottom: 0px;
+					text-align: center;
+					color: white;
+					font-size: 22px;
+				position: relative;
+
+					
+					}
+				#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+		#paddie
+	{
+		
+	margin-top: 2%;
+	}
+
+	#para
+	{
+		font-size: 20px;
+	}
+	#widdth2
+	{
+		margin-top:25px;
+	}
+
+
+footer {
+  background: linear-gradient(to left, #3a6186 , #89253e); 
+ margin-top: -2%;
+  text-align: center;
+}
+footer a {
+  color: white;
+  font-size: 25px;
+  padding: 20px;
+  display: inline;
+}
+footer a:first-child {
+  
+}
+footer a:hover {
+  color: black;
+}
+
+
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up)*/
+@media only screen and (min-width: 1101px) and (max-width: 1420px)  /*LAPTOP (MY LAPTOP)*/
+{
+	.hello
+	{
+		width:auto;
+		font-size: 110px;
+		margin-top: -40px;
+		margin-bottom: 13px;
+		text-align: center;
+
+		
+		
+	}
+	
+	#marnav 
+	ul {
+					
+	padding: 1px;
+	margin-top: -2%;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+
+					}
+	{
+
+	}				
+	.placespadd
+	{
+		padding-top: 10px;
+	}
+				.nav li a{
+				padding-top: 10px;
+					text-align: center;
+					color: white;
+					font-size: 20px;
+				position: relative;
+
+					
+					}
+				#marnav li:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+	
+	#paddie
+	{
+		
+	margin-top:1%;
+	}
+	#widdth2
+	{
+		margin-top:-7px;
+	}
+
+footer {
+  background: linear-gradient(to left, #3a6186 , #89253e); 
+ margin-top: -1%;
+  text-align: center;
+}
+footer a {
+  color: white;
+  font-size: 25px;
+  padding: 40px;
+  padding-bottom: 4px;
+  display: inline;
+}
+footer a:hover {
+  color: black;
+}
+
+}
+
+@media only screen and (min-width: 1421px) and (max-width: 1900px)   /*LAPTOP (1440)*/ 
+{
+		.hello
+	{
+		width:auto;
+		font-size: 150px;
+margin-top: -40px;
+	margin-bottom: 2px;
+		text-align: center;
+
+	}
+
+	#marnav 
+	ul {
+					
+	padding: 1px;
+	margin-top: 2%;
+		margin-top: -1%;
+	margin-bottom: -20px;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+					}
+				
+				.nav li a{
+				padding-top: 15px;
+					text-align: center;
+					color: white;
+					font-size: 27px;
+				position: relative;
+
+					
+					}
+				#marnav li:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+	
+	
+					
+				#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+		#paddie
+	{
+		
+	margin-top: 2%;
+	}
+
+	
+
+	#para
+	{
+		font-size: 28px;
+	}
+
+footer {
+ background: linear-gradient(to left, #3a6186 , #89253e); 
+  margin-top: -1%;
+  text-align: center;
+}
+footer a {
+  color:white;
+  font-size: 30px;
+  padding: 40px;
+  padding-bottom: 3px;
+  display: inline;
+}
+footer a:hover {
+  color: black;
+}
+
+
+}
+
+@media only screen and (min-width: 1901px) and (max-width: 3500px)  /*4k (2560)*/
+	{
+	.hello
+	{
+		width:auto;
+		font-size: 230px;
+	margin-top: -55px;
+		text-align: center;
+
+	}
+	
+#marnav 
+	ul {
+					
+	padding: 1px;
+	margin-top: -2%;
+		margin-top: -2%;
+	margin-bottom: -20px;
+	border: 3px solid red;
+	width:100%;
+	height:auto;
+		background-color: red;
+					}
+				
+				.nav li a{
+				padding-top: 10px;
+					text-align: center;
+					color: white;
+					font-size: 47px;
+				position: relative;
+
+					
+					}
+		.placespadd
+	{
+		padding-top: 10px;
+	}
+	
+					
+						
+				#marnav li a:hover {
+						cursor:default;
+						background-color:black; 
+						
+					}
+	#paddie
+	{
+		
+	margin-top: 1%;
+	}
+
+
+#para
+{
+font-size: 50px;	
+}
+
+footer {
+ background: linear-gradient(to left, #3a6186 , #89253e); 
+  margin-top: -1%;
+  text-align: center;
+}
+footer a {
+  color:white;
+  font-size: 60px;
+  padding: 100px;
+  padding-bottom: 3px;
+  display: inline;
+}
+footer a:hover {
+  color: black;
+}
+}
