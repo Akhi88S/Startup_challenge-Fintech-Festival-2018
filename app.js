@@ -40,15 +40,16 @@ app.get("/contactus", function(req, res){
   res.render("contactus");
 });
 
+///*
 var app_port = process.env.YOUR_PORT || process.env.PORT || 80||3000;
 var app_host = process.env.YOUR_HOST || '0.0.0.0';
 app.listen(app_port, app_host, function() {
   console.log('Listening on port %d', app_port);
 });
 
-
+/*
   // for localhost ports
-/*   var port = process.env.port || 3000;
+    var port = process.env.port || 3000;
   app.listen(port);
                                                                   //app.listen("8000", function(){
   console.log("Running on server 3000");
