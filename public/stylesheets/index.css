@@ -20,11 +20,11 @@ a
 			margin-top: -15px;
 	margin-bottom: -6px;
 		text-align: center;
-		
+
 }
-#marnav 
+#marnav
 	ul {
-					
+
 	padding: 1px;
 
 		margin-top: -1px;
@@ -46,13 +46,13 @@ a
 					color: white;
 					font-size: 10px;
 				position: relative;
-					
-}				
+
+}
 	#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
+						background-color:black;
 							}
-	
+
 #paddie{
 	padding-top: -5%;
 }
@@ -66,8 +66,8 @@ a
 {
 	color: white;
 	font-size: 14px;
-  background-color: black;	
-	
+  background-color: black;
+
 }
 
 .footer1 {
@@ -83,7 +83,7 @@ a
   display: inline;
 }
 .footer1 a:first-child {
-  
+
 }
 .footer1 a:hover {
   color: black;
@@ -101,14 +101,14 @@ a
 		margin-top: -10px;
 	margin-bottom: -6px;
 text-align: center;
-		
-		
-	
+
+
+
        }
-	
-	#marnav 
+
+	#marnav
 	ul {
-					
+
 	padding: 1px;
 
 		margin-top: -1px;
@@ -132,12 +132,12 @@ text-align: center;
 }
 				#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
 		#paddie
 	{
-		
+
 	margin-top: -1%;
 	}
 
@@ -148,7 +148,7 @@ text-align: center;
 	}
 
 footer {
-  background: linear-gradient(to left, #3a6186 , #89253e); 
+  background: linear-gradient(to left, #3a6186 , #89253e);
  margin-top: -4%;
   text-align: center;
 }
@@ -160,7 +160,7 @@ footer a {
   display: inline;
 }
 footer a:first-child {
-  
+
 }
 footer a:hover {
   color: black;
@@ -171,7 +171,7 @@ footer a:hover {
 @media only screen and (min-width:421px) and (max-width:625px) /*MOBILE(LARGE)*/
 {
 	.hello
-	{ 
+	{
 width:auto;
 		font-size: 60px;
 			margin-top: -10px;
@@ -179,10 +179,10 @@ width:auto;
 		text-align: center;
 }
 
-	
-	#marnav 
+
+	#marnav
 	ul {
-					
+
 	padding: 1px;
 
 		margin-top: 0px;
@@ -204,16 +204,16 @@ width:auto;
 					font-size: 15px;
 				position: relative;
 }
-	
-	
+
+
 	#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
 		#paddie
 	{
-		
+
 	margin-top:-1%;
 	}
 
@@ -223,7 +223,7 @@ width:auto;
 	}
 
 footer {
-  background: linear-gradient(to left, #3a6186 , #89253e); 
+  background: linear-gradient(to left, #3a6186 , #89253e);
  margin-top: -4%;
   text-align: center;
 }
@@ -235,7 +235,7 @@ footer a {
   display: inline;
 }
 footer a:first-child {
-  
+
 }
 footer a:hover {
   color: black;
@@ -244,10 +244,10 @@ footer a:hover {
 
 
 }
-	
+
 /* // Medium devices (tablets, 768px and up)*/
 @media only screen and (min-width: 626px) and (max-width:990px)    /*TABLET*/
-{ 
+{
 	.hello
 	{
 		width:auto;
@@ -256,10 +256,10 @@ footer a:hover {
 	margin-bottom: 10px;
 		text-align: center;
 	}
-	
-#marnav 
+
+#marnav
 	ul {
-					
+
 	padding: 1px;
 	margin-top: -2px;
 		margin-top: -2%;
@@ -283,12 +283,12 @@ footer a:hover {
 }
 				#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
 		#paddie
 	{
-		
+
 	margin-top:3%;
 	}
 
@@ -298,7 +298,7 @@ footer a:hover {
 	}
 
 footer {
-  background: linear-gradient(to left, #3a6186 , #89253e); 
+  background: linear-gradient(to left, #3a6186 , #89253e);
  margin-top: -2%;
   text-align: center;
 }
@@ -309,7 +309,7 @@ footer a {
   display: inline;
 }
 footer a:first-child {
-  
+
 }
 footer a:hover {
   color: black;
@@ -330,11 +330,11 @@ footer a:hover {
 		text-align: center;
 
 	}
-	
-	
-	#marnav 
+
+
+	#marnav
 	ul {
-					
+
 	padding: 1px;
 	margin-top: 2%;
 		margin-top: -10px;
@@ -356,16 +356,16 @@ footer a:hover {
 					font-size: 22px;
 				position: relative;
 
-					
+
 					}
 				#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
 		#paddie
 	{
-		
+
 	margin-top: 2%;
 	}
 
@@ -380,7 +380,7 @@ footer a:hover {
 
 
 footer {
-  background: linear-gradient(to left, #3a6186 , #89253e); 
+  background: linear-gradient(to left, #3a6186 , #89253e);
  margin-top: -2%;
   text-align: center;
 }
@@ -391,7 +391,7 @@ footer a {
   display: inline;
 }
 footer a:first-child {
-  
+
 }
 footer a:hover {
   color: black;
@@ -412,13 +412,13 @@ footer a:hover {
 		margin-bottom: 13px;
 		text-align: center;
 
-		
-		
+
+
 	}
-	
-	#marnav 
+
+	#marnav
 	ul {
-					
+
 	padding: 1px;
 	margin-top: -2%;
 	border: 3px solid red;
@@ -429,7 +429,7 @@ footer a:hover {
 					}
 	{
 
-	}				
+	}
 	.placespadd
 	{
 		padding-top: 10px;
@@ -441,17 +441,17 @@ footer a:hover {
 					font-size: 20px;
 				position: relative;
 
-					
+
 					}
 				#marnav li:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
-	
+
 	#paddie
 	{
-		
+
 	margin-top:1%;
 	}
 	#widdth2
@@ -460,7 +460,7 @@ footer a:hover {
 	}
 
 footer {
-  background: linear-gradient(to left, #3a6186 , #89253e); 
+  background: linear-gradient(to left, #3a6186 , #89253e);
  margin-top: -1%;
   text-align: center;
 }
@@ -477,7 +477,7 @@ footer a:hover {
 
 }
 
-@media only screen and (min-width: 1421px) and (max-width: 1900px)   /*LAPTOP (1440)*/ 
+@media only screen and (min-width: 1421px) and (max-width: 1900px)   /*LAPTOP (1440)*/
 {
 		.hello
 	{
@@ -489,9 +489,9 @@ margin-top: -40px;
 
 	}
 
-	#marnav 
+	#marnav
 	ul {
-					
+
 	padding: 1px;
 	margin-top: 2%;
 		margin-top: -1%;
@@ -501,7 +501,7 @@ margin-top: -40px;
 	height:auto;
 		background-color: red;
 					}
-				
+
 				.nav li a{
 				padding-top: 15px;
 					text-align: center;
@@ -509,28 +509,28 @@ margin-top: -40px;
 					font-size: 27px;
 				position: relative;
 
-					
+
 					}
 				#marnav li:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
-	
-	
-					
+
+
+
 				#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
 		#paddie
 	{
-		
+
 	margin-top: 2%;
 	}
 
-	
+
 
 	#para
 	{
@@ -538,7 +538,7 @@ margin-top: -40px;
 	}
 
 footer {
- background: linear-gradient(to left, #3a6186 , #89253e); 
+ background: linear-gradient(to left, #3a6186 , #89253e);
   margin-top: -1%;
   text-align: center;
 }
@@ -566,10 +566,10 @@ footer a:hover {
 		text-align: center;
 
 	}
-	
-#marnav 
+
+#marnav
 	ul {
-					
+
 	padding: 1px;
 	margin-top: -2%;
 		margin-top: -2%;
@@ -579,7 +579,7 @@ footer a:hover {
 	height:auto;
 		background-color: red;
 					}
-				
+
 				.nav li a{
 				padding-top: 10px;
 					text-align: center;
@@ -587,34 +587,34 @@ footer a:hover {
 					font-size: 47px;
 				position: relative;
 
-					
+
 					}
 		.placespadd
 	{
 		padding-top: 10px;
 	}
-	
-					
-						
+
+
+
 				#marnav li a:hover {
 						cursor:default;
-						background-color:black; 
-						
+						background-color:black;
+
 					}
 	#paddie
 	{
-		
+
 	margin-top: 1%;
 	}
 
 
 #para
 {
-font-size: 50px;	
+font-size: 50px;
 }
 
 footer {
- background: linear-gradient(to left, #3a6186 , #89253e); 
+ background: linear-gradient(to left, #3a6186 , #89253e);
   margin-top: -1%;
   text-align: center;
 }
